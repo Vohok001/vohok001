@@ -8,7 +8,7 @@ Welcome to my GitHub profile 🫡
 👩🏻‍🔬 Former Analytical scientist with 3+ years pharmaceuticals  <br>
 🌏 Travel is a passion of mine and have been to 26 countries so far <br>
 🌱 Currently working on freelance projects while looking for jobs <br>
-
+  <br>
   Having worked in an array of industries in the last decade, I decided to make a career change into web development to make use of the creative and technical skills I have learned   over the past experiences. The intense bootcamp at Le Wagon has equipped me with key tools needed to become a full stack developer and I am eager to put them to good use with a     touch of fresh perspective and create innovative digital solutions.
 
 ## 🛠 &nbsp;Languages & Tools
@@ -37,8 +37,9 @@ Welcome to my GitHub profile 🫡
   ## ⚙️ &nbsp;Stats
   <div >
    <img src="https://github-readme-stats.vercel.app/api?username=vohok001&show_icons=true&theme=synthwave" alt="Khushbu's stats" height='170'>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Khushbu's stats" height='170' align='right' >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Khushbu's stats" height='170'  >
   </div>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=vohok001&color=blueviolet" clat="Page views counter" width='170' >
   
 
