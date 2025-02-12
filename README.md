@@ -37,7 +37,7 @@ Welcome to my GitHub profile 🫡
   ## ⚙️ &nbsp;Stats
   <div >
    <img src="https://github-readme-stats.vercel.app/api?username=vohok001&show_icons=true&theme=synthwave" alt="Khushbu's stats" height='170'>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Khushbu's stats" height='170'  >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vohok001&layout=compact&theme=tokyonight" alt="Khushbu's stats" height='170'  >
   </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=vohok001&color=blueviolet" clat="Page views counter" width='170' >
