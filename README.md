@@ -28,7 +28,7 @@ Welcome to my GitHub profile 🫡
   ## 📱 &nbsp;Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushbu-v-139033149/) 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logoColor=white)]([https://torch-apartment-9ec.notion.site/Khushbu-V-Portfolio-16a4c2205970802a89f0f8f31450d8df](https://vohok001.github.io/portfolio-v2/)) 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logoColor=white)](https://vohok001.github.io/portfolio-v2/) 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushbuvohora@gmail.com)
   [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@khushbuvohora)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khushbuvohora) 
